@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Henry Jackson
 ---
 The majority of the setup experience in this blog was new to me. I had hardly even used github, and the instances in which I had included frequent downloads as opposed to cloning a repository. I struggled a lot with setting up ruby, as even after getting it installed it wouldn't appear on my terminal. I also started with Github desktop, since I was mildly more familiar with it, but eventually I did switch over to GitKraken.
 I am still slightly confused about the following two things:
