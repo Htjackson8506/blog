@@ -5,3 +5,17 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color:azure;
+}
+
+header{
+  background-color: lightsteelblue;
+}
+
+
+
+
+
