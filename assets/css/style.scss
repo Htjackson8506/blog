@@ -11,7 +11,10 @@ body {
   background-color:azure;
 }
 
- header .wrapper{
+header .wrapper{
   background-color: lightsteelblue;
  }
 
+img {
+  image-rendering: auto;
+}
